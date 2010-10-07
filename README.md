@@ -2,4 +2,4 @@
 
 ## Including:
 
-* 256-jungle [http://www.vim.org/scripts/script.php?script_id=2240&rating=helpful}
+* [256-jungle](http://www.vim.org/scripts/script.php?script_id=2240&rating=helpful)

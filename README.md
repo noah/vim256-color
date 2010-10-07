@@ -4,12 +4,24 @@ Because I don't care about the other vim colorschemes.
 
 ## Including:
 
+* [256-grayvim](http://www.vim.org/scripts/download_script.php?src_id=12849) v1.0
 * [256-jungle](http://www.vim.org/scripts/script.php?script_id=2240&rating=helpful) v1.0
-* [lettuce](http://www.vim.org/scripts/script.php?script_id=1975) v1.2
-* [xoria256](http://www.vim.org/scripts/script.php?script_id=2140) v1.2
-* [inkpot](http://www.vim.org/scripts/download_script.php?src_id=11833) v20091127
+* [calmar256-dark](http://www.vim.org/scripts/download_script.php?src_id=7571) v0.98
+* [calmar256-light](http://www.vim.org/scripts/download_script.php?src_id=7572) v0.98
 * [desert256](http://www.vim.org/scripts/download_script.php?src_id=4055) v1.0.1
+* [gardener](http://www.vim.org/scripts/download_script.php?src_id=4682) v1.1
+* [inkpot](http://www.vim.org/scripts/download_script.php?src_id=11833) v20091127
+* [jellybeans](http://www.vim.org/scripts/download_script.php?src_id=10690) v1.3.1
+* [lettuce](http://www.vim.org/scripts/script.php?script_id=1975) v1.2
+* [summerfruit256](http://www.vim.org/scripts/download_script.php?src_id=1015377) v0.1
+* [tir_black](http://www.vim.org/scripts/script.php?script_id=2777) v1.2
+* [vilight](http://www.vim.org/scripts/script.php?script_id=2776) v1.3.1
+* [wombat256](http://www.vim.org/scripts/download_script.php?src_id=13400) v2.0mod
+* [xoria256](http://www.vim.org/scripts/script.php?script_id=2140) v1.2
+* [zenburn](http://www.vim.org/scripts/download_script.php?src_id=11576) v2.13
 
+
+Am I missing any?
 
 ## See also:
 

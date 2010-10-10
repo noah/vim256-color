@@ -6,6 +6,12 @@ Because I don't care about the other vim colorschemes.
 
 * [256-grayvim](http://www.vim.org/scripts/download_script.php?src_id=12849) v1.0
 * [256-jungle](http://www.vim.org/scripts/script.php?script_id=2240&rating=helpful) v1.0
+* [256_adaryn.vim](http://www.frexx.de/xterm-256-notes/themes/256_adaryn.vim) v20030411
+* [256_asu1dark.vim](http://www.frexx.de/xterm-256-notes/themes/256_asu1dark.vim) v20011004
+* [256_automation.vim](http://www.frexx.de/xterm-256-notes/themes/256_automation.vim) v20040115
+* [256_blackdust.vim](http://www.frexx.de/xterm-256-notes/themes/256_blackdust.vim) v20101010
+* [256_darkdot.vim](http://www.frexx.de/xterm-256-notes/themes/256_darkdot.vim) v2.2
+* [256_redblack.vim](http://www.frexx.de/xterm-256-notes/themes/256_redblack.vim) v20101010
 * [calmar256-dark](http://www.vim.org/scripts/download_script.php?src_id=7571) v0.98
 * [calmar256-light](http://www.vim.org/scripts/download_script.php?src_id=7572) v0.98
 * [desert256](http://www.vim.org/scripts/download_script.php?src_id=4055) v1.0.1
@@ -20,6 +26,9 @@ Because I don't care about the other vim colorschemes.
 * [xoria256](http://www.vim.org/scripts/script.php?script_id=2140) v1.2
 * [zenburn](http://www.vim.org/scripts/download_script.php?src_id=11576) v2.13
 
+## Installation
+
+% cd ~/.vim && git clone git://github.com/noah/vim256-color.git colors
 
 Am I missing any?
 

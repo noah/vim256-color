@@ -23,6 +23,7 @@ Because I don't care about the other vim colorschemes.
 * [summerfruit256](http://www.vim.org/scripts/download_script.php?src_id=1015377) v0.1
 * [tir_black](http://www.vim.org/scripts/script.php?script_id=2777) v1.2
 * [vilight](http://www.vim.org/scripts/script.php?script_id=2776) v1.3.1
+* [vividchalk](http://www.vim.org/scripts/script.php?script_id=1891) v2.0
 * [wombat256](http://www.vim.org/scripts/download_script.php?src_id=13400) v2.0mod
 * [xoria256](http://www.vim.org/scripts/script.php?script_id=2140) v1.2
 * [zenburn](http://www.vim.org/scripts/download_script.php?src_id=11576) v2.13

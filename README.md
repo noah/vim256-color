@@ -19,6 +19,7 @@ Because I don't care about the other vim colorschemes.
 * [inkpot](http://www.vim.org/scripts/download_script.php?src_id=11833) v20091127
 * [jellybeans](http://www.vim.org/scripts/download_script.php?src_id=10690) v1.3.1
 * [lettuce](http://www.vim.org/scripts/script.php?script_id=1975) v1.2
+* [liquidcarbon](http://www.vim.org/scripts/script.php?script_id=3274) v1.0
 * [summerfruit256](http://www.vim.org/scripts/download_script.php?src_id=1015377) v0.1
 * [tir_black](http://www.vim.org/scripts/script.php?script_id=2777) v1.2
 * [vilight](http://www.vim.org/scripts/script.php?script_id=2776) v1.3.1

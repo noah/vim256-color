@@ -57,6 +57,7 @@ Because I don't care about the other vim colorschemes.
 * [rdark-terminal](http://www.vim.org/scripts/script.php?script_id=3202) v0.2
 * [simple256](http://www.vim.org/scripts/script.php?script_id=1962) v0.01
 * [southernlights](http://www.vim.org/scripts/script.php?script_id=3292) v0.1
+* [strange](http://www.vim.org/scripts/script.php?script_id=3534) v0.1
 * [summerfruit256](http://www.vim.org/scripts/download_script.php?src_id=1015377) v0.1
 * [synic](http://www.vim.org/scripts/script.php?script_id=1897) v0.5
 * [tabula](http://www.vim.org/scripts/script.php?script_id=1718) v1.4.2

@@ -2,6 +2,19 @@
 
 Because I don't care about the other vim colorschemes.
 
+## Installation
+
+### Using [Pathogen](http://www.vim.org/scripts/script.php?script_id=2332)
+
+% cd ~/.vim/bundle
+% git clone git://github.com/noah/vim256-color.git
+
+### Manually
+
+% cd ~/.vim 
+% git clone git://github.com/noah/vim256-color.git colors
+% cp ./colors/* ~/.vim/colors
+
 ## Including:
 
 * [256-grayvim](http://www.vim.org/scripts/download_script.php?src_id=12849) v1.0
@@ -55,12 +68,6 @@ Because I don't care about the other vim colorschemes.
 * [wombat256](http://www.vim.org/scripts/download_script.php?src_id=13400) v2.0mod
 * [xoria256](http://www.vim.org/scripts/script.php?script_id=2140) v1.2
 * [zenburn](http://www.vim.org/scripts/download_script.php?src_id=11576) v2.13
-
-## Installation
-
-% cd ~/.vim && git clone git://github.com/noah/vim256-color.git colors
-
-Am I missing any?
 
 ## See also:
 

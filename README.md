@@ -1,6 +1,5 @@
-# My collection of 256-color
-
-Because I don't care about the other
+# My collection of 256-color vim colorschemes.
+Because I don't care about the other vim colorschemes.
 
 ## Installation
 
@@ -80,5 +79,5 @@ they can be updated *en masse* by issuing the following command:
 ## See also:
 
 * Notes on the 256 color mode of xterm: http://frexx.de/xterm-256-notes/
-* 256 colors in
+* 256 colors in vim: http://vim.wikia.com/wiki/256_colors_in_vim
 * 256 color chart: http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html

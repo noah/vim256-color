@@ -1,0 +1,141 @@
+[submodule "colors/256-grayvim"]
+	path = colors/256-grayvim
+	url = git://github.com/vim-scripts/256-grayvim.git
+[submodule "colors/256-jungle"]
+	path = colors/256-jungle
+	url = git://github.com/vim-scripts/256-jungle.git
+[submodule "colors/beauty256"]
+	path = colors/beauty256
+	url = git://github.com/vim-scripts/beauty256.git
+[submodule "colors/blacklight"]
+	path = colors/blacklight
+	url = git://github.com/vim-scripts/blacklight.git
+[submodule "colors/calmar256-lightdark"]
+	path = colors/calmar256-lightdark
+	url = git://github.com/vim-scripts/calmar256-lightdark.vim.git
+[submodule "colors/desert256"]
+	path = colors/desert256
+	url = git://github.com/vim-scripts/desert256.vim.git
+[submodule "colors/crt"]
+	path = colors/crt
+	url = git://github.com/vim-scripts/crt.vim.git
+[submodule "colors/colorful256"]
+	path = colors/colorful256
+	url = git://github.com/vim-scripts/colorful256.vim.git
+[submodule "colors/charged-256"]
+	path = colors/charged-256
+	url = git://github.com/vim-scripts/charged-256.vim.git
+[submodule "colors/fu"]
+	path = colors/fu
+	url = git://github.com/vim-scripts/fu.git
+[submodule "colors/Gentooish"]
+	path = colors/Gentooish
+	url = git://github.com/vim-scripts/Gentooish.git
+[submodule "colors/greenvision"]
+	path = colors/greenvision
+	url = git://github.com/vim-scripts/greenvision.git
+[submodule "colors/donbass.vim"]
+	path = colors/donbass.vim
+	url = git://github.com/vim-scripts/donbass.vim.git
+[submodule "colors/The-Vim-Gardener"]
+	path = colors/The-Vim-Gardener
+	url = git://github.com/vim-scripts/The-Vim-Gardener.git
+[submodule "colors/icansee.vim"]
+	path = colors/icansee.vim
+	url = git://github.com/vim-scripts/icansee.vim.git
+[submodule "colors/inkpot"]
+	path = colors/inkpot
+	url = git://github.com/vim-scripts/inkpot.git
+[submodule "colors/jellybeans.vim"]
+	path = colors/jellybeans.vim
+	url = git://github.com/nanotech/jellybeans.vim.git
+[submodule "colors/vim-hybrid"]
+	path = colors/vim-hybrid
+	url = git://github.com/w0ng/vim-hybrid.git
+[submodule "colors/Zenburn"]
+	path = colors/Zenburn
+	url = git://github.com/jnurmine/Zenburn.git
+[submodule "colors/khaki.vim"]
+	path = colors/khaki.vim
+	url = git://github.com/vim-scripts/khaki.vim.git
+[submodule "colors/lettuce.vim"]
+	path = colors/lettuce.vim
+	url = git://github.com/vim-scripts/lettuce.vim
+[submodule "colors/Liquid-Carbon"]
+	path = colors/Liquid-Carbon
+	url = git://github.com/vim-scripts/Liquid-Carbon.git
+[submodule "colors/leo256"]
+	path = colors/leo256
+	url = git://github.com/vim-scripts/leo256.git
+[submodule "colors/lodestone"]
+	path = colors/lodestone
+	url = git://github.com/lodestone/lodestone.vim.git
+[submodule "colors/Lucius"]
+	path = colors/Lucius
+	url = git://github.com/vim-scripts/Lucius.git
+[submodule "colors/lilypink"]
+	path = colors/lilypink
+	url = git://github.com/vim-scripts/lilypink.git
+[submodule "colors/pink"]
+	path = colors/pink
+	url = git://github.com/vim-scripts/pink.git
+[submodule "colors/peaksea"]
+	path = colors/peaksea
+	url = git://github.com/vim-scripts/peaksea.git
+[submodule "colors/mrkn256.vim"]
+	path = colors/mrkn256.vim
+	url = git://github.com/mrkn/mrkn256.vim.git
+[submodule "colors/molokai"]
+	path = colors/molokai
+	url = git://github.com/tomasr/molokai.git
+[submodule "colors/miko"]
+	path = colors/miko
+	url = git://github.com/vim-scripts/miko.git
+[submodule "colors/southernlights"]
+	path = colors/southernlights
+	url = git://github.com/vim-scripts/southernlights.git
+[submodule "colors/Simple256"]
+	path = vim-scripts/Simple256
+	url = git://github.com/vim-scripts/Simple256.git
+[submodule "colors/rdark-terminal"]
+	path = colors/rdark-terminal
+	url = git://github.com/vim-scripts/rdark-terminal.git
+[submodule "colors/vim-colors-solarized"]
+	path = colors/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "colors/strange"]
+	path = colors/strange
+	url = git://github.com/vim-scripts/strange.git
+[submodule "colors/summerfruit256.vim"]
+	path = colors/summerfruit256.vim
+	url = git://github.com/vim-scripts/summerfruit256.vim.git
+[submodule "colors/synic.vim"]
+	path = colors/synic.vim
+	url = git://github.com/vim-scripts/synic.vim.git
+[submodule "colors/tabula.vim"]
+	path = colors/tabula.vim
+	url = git://github.com/vim-scripts/tabula.vim.git
+[submodule "colors/tchaba"]
+	path = colors/tchaba
+	url = git://github.com/vim-scripts/tchaba.git
+[submodule "colors/tir_black"]
+	path = colors/tir_black
+	url = git://github.com/vim-scripts/tir_black.git
+[submodule "colors/vilight.vim"]
+	path = colors/vilight.vim
+	url = git://github.com/vim-scripts/vilight.vim.git
+[submodule "colors/wombat256"]
+	path = colors/wombat256
+	url = git://github.com/vim-scripts/wombat256.vim.git
+[submodule "colors/vim-vividchalk"]
+	path = colors/vim-vividchalk
+	url = git://github.com/tpope/vim-vividchalk.git
+[submodule "colors/vim-vividchalk-sexy"]
+	path = colors/vim-vividchalk-sexy
+	url = git://github.com/andyferra/vim-vividchalk.git
+[submodule "colors/xoria256.vim"]
+	path = colors/xoria256.vim
+	url = git://github.com/vim-scripts/xoria256.vim.git
+[submodule "colors/bubblegum"]
+	path = colors/bubblegum
+	url = git://github.com/baskerville/bubblegum.git

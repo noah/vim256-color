@@ -3,85 +3,40 @@ Because I don't care about the other vim colorschemes.
 
 ## Installation
 
+### Using [vundle](https://github.com/gmarik/vundle/) (**recommended!**)
+
+    % echo 'Bundle noah/vim256-color' >> ~/.vimrc:
+    % vim +BundleInstall!
+
 ### Using [Pathogen](http://www.vim.org/scripts/script.php?script_id=2332)
 
     % cd ~/.vim/bundle
-    % git clone git://github.com/noah/vim256-color.git && ./makelinks.sh
-
-### Manually
-
-    % cd ~/.vim 
-    % git clone --recursive git://github.com/mysociety/whatdotheyknow.git
-    % git clone git://github.com/noah/vim256-color.git colors
-    % cp ./colors/* ~/.vim/colors
+    % git clone --recursive git://github.com/noah/vim256-color.git
 
 ## Including:
 
-* [256-grayvim](http://www.vim.org/scripts/download_script.php?src_id=12849)
-* [256-jungle](http://www.vim.org/scripts/script.php?script_id=2240&rating=helpful)
-* [256_adaryn.vim](http://www.frexx.de/xterm-256-notes/themes/256_adaryn.vim)
-* [256_asu1dark.vim](http://www.frexx.de/xterm-256-notes/themes/256_asu1dark.vim)
-* [256_automation.vim](http://www.frexx.de/xterm-256-notes/themes/256_automation.vim)
-* [256_blackdust.vim](http://www.frexx.de/xterm-256-notes/themes/256_blackdust.vim)
-* [256_darkdot.vim](http://www.frexx.de/xterm-256-notes/themes/256_darkdot.vim)
-* [256_redblack.vim](http://www.frexx.de/xterm-256-notes/themes/256_redblack.vim)
-* [beauty256](http://www.vim.org/scripts/script.php?script_id=2197)
-* [blacklight](http://www.vim.org/scripts/script.php?script_id=1596)
-* [calmar256-dark](http://www.vim.org/scripts/download_script.php?src_id=7571)
-* [calmar256-light](http://www.vim.org/scripts/download_script.php?src_id=7572)
-* [charged](http://www.vim.org/scripts/script.php?script_id=2513)
-* [colorful256](http://www.vim.org/scripts/script.php?script_id=2034)
-* [crt](http://www.vim.org/scripts/script.php?script_id=1576)
-* [desert256](http://www.vim.org/scripts/download_script.php?src_id=4055)
-* [donbass](http://www.vim.org/scripts/download_script.php?src_id=11176)
-* [fu](http://www.vim.org/scripts/script.php?script_id=3117)
-* [gardener](http://www.vim.org/scripts/download_script.php?src_id=4682)
-* [gentooish](http://www.vim.org/scripts/script.php?script_id=2474)
-* [greenvision](http://www.vim.org/scripts/script.php?script_id=2155)
-* [icansee](http://www.vim.org/scripts/download_script.php?src_id=7656)
-* [inkpot](http://www.vim.org/scripts/download_script.php?src_id=11833)
-* [jellybeans](http://www.vim.org/scripts/download_script.php?src_id=10690)
-* [khaki](http://www.vim.org/scripts/download_script.php?src_id=7569)
-* [lettuce](http://www.vim.org/scripts/script.php?script_id=1975)
-* [liquidcarbon](http://www.vim.org/scripts/script.php?script_id=3274)
-* [leo256](http://www.vim.org/scripts/script.php?script_id=2156)
-* [lodestone](http://www.vim.org/scripts/download_script.php?src_id=13736)
-* [lucius](http://www.vim.org/scripts/script.php?script_id=2536)
-* [marcoloccio](http://www.vim.org/scripts/download_script.php?src_id=12609)
-* [miko](http://www.vim.org/scripts/script.php?script_id=2452)
-* [molokai](http://www.vim.org/scripts/download_script.php?src_id=9750)
-* [mrkn256](http://www.vim.org/scripts/script.php?script_id=2974)
-* [peaksea](http://www.vim.org/scripts/download_script.php?src_id=12309)
-* [pink](http://www.vim.org/scripts/script.php?script_id=2281)
-* [railscasts](http://www.vim.org/scripts/download_script.php?src_id=8379)
-* [rdark-terminal](http://www.vim.org/scripts/script.php?script_id=3202)
-* [simple256](http://www.vim.org/scripts/script.php?script_id=1962)
-* [southernlights](http://www.vim.org/scripts/script.php?script_id=3292)
-* [strange](http://www.vim.org/scripts/script.php?script_id=3534)
-* [summerfruit256](http://www.vim.org/scripts/download_script.php?src_id=1015377)
-* [synic](http://www.vim.org/scripts/script.php?script_id=1897)
-* [tabula](http://www.vim.org/scripts/script.php?script_id=1718)
-* [tchaba](http://www.vim.org/scripts/script.php?script_id=3272)
-* [tir_black](http://www.vim.org/scripts/script.php?script_id=2777)
-* [vibrantink](http://www.vim.org/scripts/download_script.php?src_id=10117)
-* [vilight](http://www.vim.org/scripts/script.php?script_id=2776)
-* [vividchalk](http://www.vim.org/scripts/script.php?script_id=1891)
-* [wombat256](http://www.vim.org/scripts/download_script.php?src_id=13400)
-* [xoria256](http://www.vim.org/scripts/script.php?script_id=2140)
-* [zenburn](http://www.vim.org/scripts/download_script.php?src_id=11576)
+  256-grayvim 256-jungle beauty256 blacklight calmar256-lightdark desert256 donbass.vim The-Vim-Gardener icansee.vim inkpot jellybeans.vim vim-hybrid Zenburn khaki.vim lettuce.vim Liquid-Carbon leo256 lodestone Lucius lilypink pink peaksea mrkn256.vim molokai miko southernlights rdark-terminal vim-colors-solarized strange summerfruit256.vim synic.vim tabula.vim tchaba tir_black vilight.vim wombat256 vim-vividchalk vim-vividchalk-sexy xoria256.vim badwolf bubblegum Simple256 fu crt colorful256 charged-256 Gentooish greenvision
 
-## Updating
+## Manual install
 
-With a few exceptions, these themes are stored as git submodules.  So,
-they can be updated *en masse* by issuing the following command:
+    % git clone --recursive git://github.com/noah/vim256-color.git colors
+    % cp ./colors/* ~/.vim/colors
+
+## Manual update
+
+With a few exceptions (e.g., where a public git source is not
+available), these themes references to git submodules.  So, they can be
+updated *en masse* by doing the following:
 
     % git submodule foreach git pull
+    % ./update_links.sh
+
+`upadate_links.sh` is a git pre-commit hook, I provide it here since
+these hooks aren't versioned by git...
 
 ## See also:
 
 * Notes on the 256 color mode of xterm: http://frexx.de/xterm-256-notes/
 * 256 colors in vim: http://vim.wikia.com/wiki/256_colors_in_vim
 * 256 color chart: http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html
-
-
-
+* Vivify vim theme editor: http://bytefluent.com/vivify/

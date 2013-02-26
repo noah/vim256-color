@@ -84,3 +84,4 @@ they can be updated *en masse* by issuing the following command:
 * 256 color chart: http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html
 
 
+

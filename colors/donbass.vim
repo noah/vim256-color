@@ -1,1 +1,1 @@
-.././submodules/donbass.vim/colors/donbass.vim
+.././submodules/donbass.vim

@@ -1,1 +1,1 @@
-.././submodules/jellybeans.vim/colors/jellybeans.vim
+.././submodules/jellybeans.vim

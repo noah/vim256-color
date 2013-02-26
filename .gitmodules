@@ -268,3 +268,21 @@
 [submodule "submodules/Simple256"]
 	path = submodules/Simple256
 	url = git://github.com/vim-scripts/Simple256.git
+[submodule "submodules/fu"]
+	path = submodules/fu
+	url = git://github.com/vim-scripts/fu.git
+[submodule "submodules/crt"]
+	path = submodules/crt
+	url = git://github.com/vim-scripts/crt.vim.git
+[submodule "submodules/colorful256"]
+	path = submodules/colorful256
+	url = git://github.com/vim-scripts/colorful256.vim.git
+[submodule "submodules/charged-256"]
+	path = submodules/charged-256
+	url = git://github.com/vim-scripts/charged-256.vim.git
+[submodule "submodules/Gentooish"]
+	path = submodules/Gentooish
+	url = git://github.com/vim-scripts/Gentooish.git
+[submodule "submodules/greenvision"]
+	path = submodules/greenvision
+	url = git://github.com/vim-scripts/greenvision.git

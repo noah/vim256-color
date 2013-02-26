@@ -1,1 +1,1 @@
-.././submodules/mrkn256.vim
+.././submodules/mrkn256.vim/colors/mrkn256.vim

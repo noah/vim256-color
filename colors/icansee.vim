@@ -1,1 +1,1 @@
-.././submodules/icansee.vim
+.././submodules/icansee.vim/colors/icansee.vim

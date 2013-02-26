@@ -1,1 +1,1 @@
-.././submodules/vilight.vim
+.././submodules/vilight.vim/colors/vilight.vim

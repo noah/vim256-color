@@ -1,1 +1,0 @@
-.././submodules/khaki.vim/colors/khaki.vim

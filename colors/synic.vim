@@ -1,1 +1,1 @@
-.././submodules/synic.vim
+.././submodules/synic.vim/colors/synic.vim

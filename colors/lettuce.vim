@@ -1,1 +1,1 @@
-.././submodules/lettuce.vim
+.././submodules/lettuce.vim/colors/lettuce.vim

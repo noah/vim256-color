@@ -82,3 +82,5 @@ they can be updated *en masse* by issuing the following command:
 * Notes on the 256 color mode of xterm: http://frexx.de/xterm-256-notes/
 * 256 colors in vim: http://vim.wikia.com/wiki/256_colors_in_vim
 * 256 color chart: http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html
+
+

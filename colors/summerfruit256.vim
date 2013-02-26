@@ -1,1 +1,1 @@
-.././submodules/summerfruit256.vim
+.././submodules/summerfruit256.vim/colors/summerfruit256.vim

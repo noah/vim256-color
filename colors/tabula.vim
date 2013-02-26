@@ -1,1 +1,1 @@
-.././submodules/tabula.vim
+.././submodules/tabula.vim/colors/tabula.vim

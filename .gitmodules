@@ -1,6 +1,270 @@
+[submodule "256-grayvim"]
+	path = submodules/256-grayvim
+	url = git://github.com/vim-scripts/256-grayvim.git
+[submodule "256-jungle"]
+	path = submodules/256-jungle
+	url = git://github.com/vim-scripts/256-jungle.git
+[submodule "beauty256"]
+	path = submodules/beauty256
+	url = git://github.com/vim-scripts/beauty256.git
+[submodule "blacklight"]
+	path = submodules/blacklight
+	url = git://github.com/vim-scripts/blacklight.git
+[submodule "calmar256-lightdark"]
+	path = submodules/calmar256-lightdark
+	url = git://github.com/vim-scripts/calmar256-lightdark.vim.git
+[submodule "desert256"]
+	path = submodules/desert256
+	url = git://github.com/vim-scripts/desert256.vim.git
+[submodule "crt"]
+	path = submodules/crt
+	url = git://github.com/vim-scripts/crt.vim.git
+[submodule "colorful256"]
+	path = submodules/colorful256
+	url = git://github.com/vim-scripts/colorful256.vim.git
+[submodule "charged-256"]
+	path = submodules/charged-256
+	url = git://github.com/vim-scripts/charged-256.vim.git
+[submodule "fu"]
+	path = submodules/fu
+	url = git://github.com/vim-scripts/fu.git
+[submodule "Gentooish"]
+	path = submodules/Gentooish
+	url = git://github.com/vim-scripts/Gentooish.git
+[submodule "greenvision"]
+	path = submodules/greenvision
+	url = git://github.com/vim-scripts/greenvision.git
+[submodule "donbass.vim"]
+	path = submodules/donbass.vim
+	url = git://github.com/vim-scripts/donbass.vim.git
+[submodule "The-Vim-Gardener"]
+	path = submodules/The-Vim-Gardener
+	url = git://github.com/vim-scripts/The-Vim-Gardener.git
+[submodule "icansee.vim"]
+	path = submodules/icansee.vim
+	url = git://github.com/vim-scripts/icansee.vim.git
+[submodule "inkpot"]
+	path = submodules/inkpot
+	url = git://github.com/vim-scripts/inkpot.git
+[submodule "jellybeans.vim"]
+	path = submodules/jellybeans.vim
+	url = git://github.com/nanotech/jellybeans.vim.git
+[submodule "vim-hybrid"]
+	path = submodules/vim-hybrid
+	url = git://github.com/w0ng/vim-hybrid.git
+[submodule "Zenburn"]
+	path = submodules/Zenburn
+	url = git://github.com/jnurmine/Zenburn.git
+[submodule "khaki.vim"]
+	path = submodules/khaki.vim
+	url = git://github.com/vim-scripts/khaki.vim.git
+[submodule "lettuce.vim"]
+	path = submodules/lettuce.vim
+	url = git://github.com/vim-scripts/lettuce.vim
+[submodule "Liquid-Carbon"]
+	path = submodules/Liquid-Carbon
+	url = git://github.com/vim-scripts/Liquid-Carbon.git
+[submodule "leo256"]
+	path = submodules/leo256
+	url = git://github.com/vim-scripts/leo256.git
+[submodule "lodestone"]
+	path = submodules/lodestone
+	url = git://github.com/lodestone/lodestone.vim.git
+[submodule "Lucius"]
+	path = submodules/Lucius
+	url = git://github.com/vim-scripts/Lucius.git
+[submodule "lilypink"]
+	path = submodules/lilypink
+	url = git://github.com/vim-scripts/lilypink.git
+[submodule "pink"]
+	path = submodules/pink
+	url = git://github.com/vim-scripts/pink.git
+[submodule "peaksea"]
+	path = submodules/peaksea
+	url = git://github.com/vim-scripts/peaksea.git
+[submodule "mrkn256.vim"]
+	path = submodules/mrkn256.vim
+	url = git://github.com/mrkn/mrkn256.vim.git
+[submodule "molokai"]
+	path = submodules/molokai
+	url = git://github.com/tomasr/molokai.git
+[submodule "miko"]
+	path = submodules/miko
+	url = git://github.com/vim-scripts/miko.git
+[submodule "southernlights"]
+	path = submodules/southernlights
+	url = git://github.com/vim-scripts/southernlights.git
+[submodule "Simple256"]
+	path = vim-scripts/Simple256
+	url = git://github.com/vim-scripts/Simple256.git
+[submodule "rdark-terminal"]
+	path = submodules/rdark-terminal
+	url = git://github.com/vim-scripts/rdark-terminal.git
+[submodule "vim-colors-solarized"]
+	path = submodules/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "strange"]
+	path = submodules/strange
+	url = git://github.com/vim-scripts/strange.git
+[submodule "summerfruit256.vim"]
+	path = submodules/summerfruit256.vim
+	url = git://github.com/vim-scripts/summerfruit256.vim.git
+[submodule "synic.vim"]
+	path = submodules/synic.vim
+	url = git://github.com/vim-scripts/synic.vim.git
+[submodule "tabula.vim"]
+	path = submodules/tabula.vim
+	url = git://github.com/vim-scripts/tabula.vim.git
+[submodule "tchaba"]
+	path = submodules/tchaba
+	url = git://github.com/vim-scripts/tchaba.git
+[submodule "tir_black"]
+	path = submodules/tir_black
+	url = git://github.com/vim-scripts/tir_black.git
+[submodule "vilight.vim"]
+	path = submodules/vilight.vim
+	url = git://github.com/vim-scripts/vilight.vim.git
+[submodule "wombat256"]
+	path = submodules/wombat256
+	url = git://github.com/vim-scripts/wombat256.vim.git
+[submodule "vim-vividchalk"]
+	path = submodules/vim-vividchalk
+	url = git://github.com/tpope/vim-vividchalk.git
+[submodule "vim-vividchalk-sexy"]
+	path = submodules/vim-vividchalk-sexy
+	url = git://github.com/andyferra/vim-vividchalk.git
+[submodule "xoria256.vim"]
+	path = submodules/xoria256.vim
+	url = git://github.com/vim-scripts/xoria256.vim.git
+[submodule "bubblegum"]
+	path = submodules/bubblegum
+	url = git://github.com/baskerville/bubblegum.git
+[submodule "badwolf"]
+	path = submodules/badwolf
+	url = git://github.com/sjl/badwolf.git
 [submodule "submodules/256-grayvim"]
 	path = submodules/256-grayvim
 	url = git://github.com/vim-scripts/256-grayvim.git
-[submodule "submodules"]
-	path = submodules
-	url = git://github.com/vim-scripts/256-grayvim.git
+[submodule "submodules/256-jungle"]
+	path = submodules/256-jungle
+	url = git://github.com/vim-scripts/256-jungle.git
+[submodule "submodules/beauty256"]
+	path = submodules/beauty256
+	url = git://github.com/vim-scripts/beauty256.git
+[submodule "submodules/blacklight"]
+	path = submodules/blacklight
+	url = git://github.com/vim-scripts/blacklight.git
+[submodule "submodules/calmar256-lightdark"]
+	path = submodules/calmar256-lightdark
+	url = git://github.com/vim-scripts/calmar256-lightdark.vim.git
+[submodule "submodules/desert256"]
+	path = submodules/desert256
+	url = git://github.com/vim-scripts/desert256.vim.git
+[submodule "submodules/donbass.vim"]
+	path = submodules/donbass.vim
+	url = git://github.com/vim-scripts/donbass.vim.git
+[submodule "submodules/The-Vim-Gardener"]
+	path = submodules/The-Vim-Gardener
+	url = git://github.com/vim-scripts/The-Vim-Gardener.git
+[submodule "submodules/icansee.vim"]
+	path = submodules/icansee.vim
+	url = git://github.com/vim-scripts/icansee.vim.git
+[submodule "submodules/inkpot"]
+	path = submodules/inkpot
+	url = git://github.com/vim-scripts/inkpot.git
+[submodule "submodules/jellybeans.vim"]
+	path = submodules/jellybeans.vim
+	url = git://github.com/nanotech/jellybeans.vim.git
+[submodule "submodules/vim-hybrid"]
+	path = submodules/vim-hybrid
+	url = git://github.com/w0ng/vim-hybrid.git
+[submodule "submodules/Zenburn"]
+	path = submodules/Zenburn
+	url = git://github.com/jnurmine/Zenburn.git
+[submodule "submodules/khaki.vim"]
+	path = submodules/khaki.vim
+	url = git://github.com/vim-scripts/khaki.vim.git
+[submodule "submodules/lettuce.vim"]
+	path = submodules/lettuce.vim
+	url = git://github.com/vim-scripts/lettuce.vim
+[submodule "submodules/Liquid-Carbon"]
+	path = submodules/Liquid-Carbon
+	url = git://github.com/vim-scripts/Liquid-Carbon.git
+[submodule "submodules/leo256"]
+	path = submodules/leo256
+	url = git://github.com/vim-scripts/leo256.git
+[submodule "submodules/lodestone"]
+	path = submodules/lodestone
+	url = git://github.com/lodestone/lodestone.vim.git
+[submodule "submodules/Lucius"]
+	path = submodules/Lucius
+	url = git://github.com/vim-scripts/Lucius.git
+[submodule "submodules/lilypink"]
+	path = submodules/lilypink
+	url = git://github.com/vim-scripts/lilypink.git
+[submodule "submodules/pink"]
+	path = submodules/pink
+	url = git://github.com/vim-scripts/pink.git
+[submodule "submodules/peaksea"]
+	path = submodules/peaksea
+	url = git://github.com/vim-scripts/peaksea.git
+[submodule "submodules/mrkn256.vim"]
+	path = submodules/mrkn256.vim
+	url = git://github.com/mrkn/mrkn256.vim.git
+[submodule "submodules/molokai"]
+	path = submodules/molokai
+	url = git://github.com/tomasr/molokai.git
+[submodule "submodules/miko"]
+	path = submodules/miko
+	url = git://github.com/vim-scripts/miko.git
+[submodule "submodules/southernlights"]
+	path = submodules/southernlights
+	url = git://github.com/vim-scripts/southernlights.git
+[submodule "submodules/rdark-terminal"]
+	path = submodules/rdark-terminal
+	url = git://github.com/vim-scripts/rdark-terminal.git
+[submodule "submodules/vim-colors-solarized"]
+	path = submodules/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "submodules/strange"]
+	path = submodules/strange
+	url = git://github.com/vim-scripts/strange.git
+[submodule "submodules/summerfruit256.vim"]
+	path = submodules/summerfruit256.vim
+	url = git://github.com/vim-scripts/summerfruit256.vim.git
+[submodule "submodules/synic.vim"]
+	path = submodules/synic.vim
+	url = git://github.com/vim-scripts/synic.vim.git
+[submodule "submodules/tabula.vim"]
+	path = submodules/tabula.vim
+	url = git://github.com/vim-scripts/tabula.vim.git
+[submodule "submodules/tchaba"]
+	path = submodules/tchaba
+	url = git://github.com/vim-scripts/tchaba.git
+[submodule "submodules/tir_black"]
+	path = submodules/tir_black
+	url = git://github.com/vim-scripts/tir_black.git
+[submodule "submodules/vilight.vim"]
+	path = submodules/vilight.vim
+	url = git://github.com/vim-scripts/vilight.vim.git
+[submodule "submodules/wombat256"]
+	path = submodules/wombat256
+	url = git://github.com/vim-scripts/wombat256.vim.git
+[submodule "submodules/vim-vividchalk"]
+	path = submodules/vim-vividchalk
+	url = git://github.com/tpope/vim-vividchalk.git
+[submodule "submodules/vim-vividchalk-sexy"]
+	path = submodules/vim-vividchalk-sexy
+	url = git://github.com/andyferra/vim-vividchalk.git
+[submodule "submodules/xoria256.vim"]
+	path = submodules/xoria256.vim
+	url = git://github.com/vim-scripts/xoria256.vim.git
+[submodule "submodules/badwolf"]
+	path = submodules/badwolf
+	url = git://github.com/sjl/badwolf.git
+[submodule "submodules/bubblegum"]
+	path = submodules/bubblegum
+	url = git://github.com/baskerville/bubblegum.git
+[submodule "submodules/Simple256"]
+	path = submodules/Simple256
+	url = git://github.com/vim-scripts/Simple256.git

@@ -6,11 +6,12 @@ Because I don't care about the other vim colorschemes.
 ### Using [Pathogen](http://www.vim.org/scripts/script.php?script_id=2332)
 
     % cd ~/.vim/bundle
-    % git clone git://github.com/noah/vim256-color.git
+    % git clone git://github.com/noah/vim256-color.git && ./makelinks.sh
 
 ### Manually
 
     % cd ~/.vim 
+    % git clone --recursive git://github.com/mysociety/whatdotheyknow.git
     % git clone git://github.com/noah/vim256-color.git colors
     % cp ./colors/* ~/.vim/colors
 

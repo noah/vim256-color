@@ -139,3 +139,6 @@
 [submodule "colors/bubblegum"]
 	path = colors/bubblegum
 	url = git://github.com/baskerville/bubblegum.git
+[submodule "colors/badwolf"]
+	path = colors/badwolf
+	url = git://github.com/sjl/badwolf.git

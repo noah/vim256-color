@@ -126,7 +126,7 @@
 	url = git://github.com/vim-scripts/Simple256.git
 [submodule "submodules/fu"]
 	path = submodules/fu
-	url = git://github.com/vim-scripts/fu.git
+	url = git://github.com/noah/fu.git
 [submodule "submodules/crt"]
 	path = submodules/crt
 	url = git://github.com/vim-scripts/crt.vim.git

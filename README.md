@@ -46,6 +46,7 @@ these hooks aren't versioned by git...
 
 
     git submodule add git://github.com/nelstrom/vim-mac-classic-theme.git submodules/vim-mac-classic-theme
+    ./update_links.sh
     git commit -a -m'blah'
     git push
 

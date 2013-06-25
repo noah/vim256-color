@@ -142,3 +142,6 @@
 [submodule "submodules/greenvision"]
 	path = submodules/greenvision
 	url = git://github.com/vim-scripts/greenvision.git
+[submodule "submodules/vim-mac-classic-theme"]
+	path = submodules/vim-mac-classic-theme
+	url = git://github.com/nelstrom/vim-mac-classic-theme.git

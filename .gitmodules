@@ -154,3 +154,12 @@
 [submodule "submodules/codeschool-vim-theme"]
 	path = submodules/codeschool-vim-theme
 	url = git://github.com/29decibel/codeschool-vim-theme.git
+[submodule "submodules/vim-distinguished"]
+	path = submodules/vim-distinguished
+	url = git://github.com/Lokaltog/vim-distinguished.git
+[submodule "submodules/gruvbox"]
+	path = submodules/gruvbox
+	url = git@github.com:morhetz/gruvbox.git
+[submodule "submodules/seoul256"]
+	path = submodules/seoul256
+	url = git@github.com:junegunn/seoul256.vim.git

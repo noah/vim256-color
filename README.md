@@ -32,7 +32,7 @@ these hooks aren't versioned by git...
 
 ## Including:
 
-  256-grayvim 256-jungle beauty256 blacklight calmar256-lightdark codeschool desert256 donbass.vim The-Vim-Gardener icansee.vim inkpot jellybeans.vim vim-hybrid Zenburn khaki.vim vim-kolor lettuce.vim Liquid-Carbon leo256 lodestone Lucius lilypink pink peaksea mrkn256.vim molokai miko southernlights rdark-terminal vim-colors-solarized strange summerfruit256.vim synic.vim tabula.vim tchaba tir_black vilight.vim wombat256 vim-vividchalk vim-vividchalk-sexy xoria256.vim badwolf bubblegum Simple256 fu crt colorful256 charged-256 Gentooish greenvision
+    256-grayvim 256-jungle beauty256 blacklight calmar256-lightdark codeschool desert256 donbass.vim gruvbox.vim The-Vim-Gardener icansee.vim inkpot jellybeans.vim vim-hybrid Zenburn khaki.vim vim-kolor lettuce.vim Liquid-Carbon leo256 lodestone Lucius lilypink pink peaksea mrkn256.vim molokai miko southernlights rdark-terminal vim-colors-solarized strange summerfruit256.vim seoul256.vim synic.vim tabula.vim tchaba tir\_black vilight.vim wombat256 vim-distinguished vim-vividchalk vim-vividchalk-sexy xoria256.vim badwolf bubblegum Simple256 fu crt colorful256 charged-256 Gentooish greenvision
 
 
 ## My favorite
@@ -42,6 +42,6 @@ Still [fu][https://aaron-mueller.de/blog/the-most-awesome-colorscheme-for-vim]
 ## See also:
 
 * Notes on the 256 color mode of xterm: http://frexx.de/xterm-256-notes/
-* 256 colors in vim: http://vim.wikia.com/wiki/256_colors_in_vim
+* 256 colors in vim: http://vim.wikia.com/wiki/256\_colors\_in\_vim
 * 256 color chart: http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html
 * Vivify vim theme editor: http://bytefluent.com/vivify/

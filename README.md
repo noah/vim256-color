@@ -27,12 +27,17 @@ updated *en masse* by doing the following:
     % git submodule foreach git pull
     % ./update_links.sh
 
-`upadate_links.sh` is a git pre-commit hook, I provide it here since
+`update_links.sh` is a git pre-commit hook, I provide it here since
 these hooks aren't versioned by git...
 
 ## Including:
 
-  256-grayvim 256-jungle beauty256 blacklight calmar256-lightdark desert256 donbass.vim The-Vim-Gardener icansee.vim inkpot jellybeans.vim vim-hybrid Zenburn khaki.vim lettuce.vim Liquid-Carbon leo256 lodestone Lucius lilypink pink peaksea mrkn256.vim molokai miko southernlights rdark-terminal vim-colors-solarized strange summerfruit256.vim synic.vim tabula.vim tchaba tir_black vilight.vim wombat256 vim-vividchalk vim-vividchalk-sexy xoria256.vim badwolf bubblegum Simple256 fu crt colorful256 charged-256 Gentooish greenvision
+  256-grayvim 256-jungle beauty256 blacklight calmar256-lightdark codeschool desert256 donbass.vim The-Vim-Gardener icansee.vim inkpot jellybeans.vim vim-hybrid Zenburn khaki.vim vim-kolor lettuce.vim Liquid-Carbon leo256 lodestone Lucius lilypink pink peaksea mrkn256.vim molokai miko southernlights rdark-terminal vim-colors-solarized strange summerfruit256.vim synic.vim tabula.vim tchaba tir_black vilight.vim wombat256 vim-vividchalk vim-vividchalk-sexy xoria256.vim badwolf bubblegum Simple256 fu crt colorful256 charged-256 Gentooish greenvision
+
+
+## My favorite
+
+Still [fu][https://aaron-mueller.de/blog/the-most-awesome-colorscheme-for-vim]
 
 ## See also:
 

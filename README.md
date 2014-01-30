@@ -37,7 +37,7 @@ these hooks aren't versioned by git...
 
 ## My favorite
 
-Still [fu][https://aaron-mueller.de/blog/the-most-awesome-colorscheme-for-vim]
+Still [fu](https://aaron-mueller.de/blog/the-most-awesome-colorscheme-for-vim)
 
 ## See also:
 

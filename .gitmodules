@@ -145,3 +145,12 @@
 [submodule "submodules/vim-mac-classic-theme"]
 	path = submodules/vim-mac-classic-theme
 	url = git://github.com/nelstrom/vim-mac-classic-theme.git
+[submodule "submodules/vim-lucius"]
+	path = submodules/vim-lucius
+	url = git://github.com/jonathanfilip/vim-lucius.git
+[submodule "submodules/vim-kolor"]
+	path = submodules/vim-kolor
+	url = git://github.com/zeis/vim-kolor.git
+[submodule "submodules/codeschool-vim-theme"]
+	path = submodules/codeschool-vim-theme
+	url = git://github.com/29decibel/codeschool-vim-theme.git

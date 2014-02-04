@@ -1,0 +1,1 @@
+.././submodules/vim-kolor/colors/kolor.vim

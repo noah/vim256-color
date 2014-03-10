@@ -159,7 +159,7 @@
 	url = https://github.com/Lokaltog/vim-distinguished.git
 [submodule "submodules/gruvbox"]
 	path = submodules/gruvbox
-	url = https://github.com:morhetz/gruvbox.git
+	url = https://github.com/morhetz/gruvbox.git
 [submodule "submodules/seoul256"]
 	path = submodules/seoul256
-	url = https://github.com:junegunn/seoul256.vim.git
+	url = https://github.com/junegunn/seoul256.vim.git

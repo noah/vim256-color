@@ -27,6 +27,12 @@ updated *en masse* by doing the following:
     % git submodule foreach git pull
     % ./update_links.sh
 
+May be necessary to run:
+
+    % git submodule update --init --recursive
+
+I say "may" because let's be honest, git submodules are pure voodoo.
+
 `update_links.sh` is a git pre-commit hook, I provide it here since
 these hooks aren't versioned by git...
 

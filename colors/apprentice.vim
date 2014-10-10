@@ -1,1 +1,1 @@
-.././submodules/Apprentice/autoload/lightline/colorscheme/apprentice.vim
+.././submodules/Apprentice/colors/apprentice.vim

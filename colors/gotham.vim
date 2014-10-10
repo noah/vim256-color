@@ -1,1 +1,1 @@
-.././submodules/vim-gotham/autoload/airline/themes/gotham.vim
+.././submodules/vim-gotham/colors/gotham.vim

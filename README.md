@@ -30,9 +30,17 @@ updated *en masse* by doing the following:
 `update_links.sh` is a git pre-commit hook, I provide it here since
 these hooks aren't versioned by git...
 
+### Adding themes
+
+    % cd ./submodules
+    % git add https://....
+    % cd ..
+    % ./update_links.sh
+    % commit + push
+
 ## Including:
 
-    256-grayvim 256-jungle beauty256 blacklight calmar256-lightdark codeschool desert256 donbass.vim gruvbox.vim The-Vim-Gardener icansee.vim inkpot jellybeans.vim vim-hybrid Zenburn khaki.vim vim-kolor lettuce.vim Liquid-Carbon leo256 lodestone Lucius lilypink pink peaksea mrkn256.vim molokai miko southernlights rdark-terminal vim-colors-solarized strange summerfruit256.vim seoul256.vim synic.vim tabula.vim tchaba tir\_black vilight.vim wombat256 vim-distinguished vim-vividchalk vim-vividchalk-sexy xoria256.vim badwolf bubblegum Simple256 fu crt colorful256 charged-256 Gentooish greenvision
+    256-grayvim 256-jungle beauty256 blacklight calmar256-lightdark Apprentice codeschool desert256 Disciple donbass.vim gruvbox.vim The-Vim-Gardener icansee.vim inkpot jellybeans.vim vim-hybrid Zenburn khaki.vim vim-kolor lettuce.vim Liquid-Carbon leo256 lodestone Lucius lilypink pink peaksea mrkn256.vim molokai miko southernlights rdark-terminal vim-colors-solarized strange summerfruit256.vim seoul256.vim synic.vim tabula.vim tchaba tir\_black vilight.vim wombat256 vim-distinguished vim-vividchalk vim-vividchalk-sexy xoria256.vim badwolf bubblegum Simple256 fu crt colorful256 charged-256 Gentooish greenvision
 
 
 ## My favorite

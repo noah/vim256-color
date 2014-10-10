@@ -163,3 +163,12 @@
 [submodule "submodules/seoul256"]
 	path = submodules/seoul256
 	url = https://github.com/junegunn/seoul256.vim.git
+[submodule "submodules/Apprentice"]
+	path = submodules/Apprentice
+	url = https://github.com/romainl/Apprentice.git
+[submodule "submodules/vim-gotham"]
+	path = submodules/vim-gotham
+	url = https://github.com/whatyouhide/vim-gotham.git
+[submodule "submodules/Disciple"]
+	path = submodules/Disciple
+	url = https://github.com/romainl/Disciple.git

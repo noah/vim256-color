@@ -59,3 +59,4 @@ Still [fu](https://aaron-mueller.de/blog/the-most-awesome-colorscheme-for-vim)
 * 256 colors in vim: http://vim.wikia.com/wiki/256\_colors\_in\_vim
 * 256 color chart: http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html
 * Vivify vim theme editor: http://bytefluent.com/vivify/
+* terminal designer: http://terminal.sexy/

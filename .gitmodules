@@ -175,3 +175,105 @@
 [submodule "submodules/vim-atom-dark"]
 	path = submodules/vim-atom-dark
 	url = https://github.com/gosukiwi/vim-atom-dark.git
+[submodule "submodules/flattown"]
+	path = submodules/flattown
+	url = https://github.com/blerins/flattown.git
+[submodule "submodules/cobalt2-vim-theme"]
+	path = submodules/cobalt2-vim-theme
+	url = https://github.com/GertjanReynaert/cobalt2-vim-theme.git
+[submodule "submodules/Spacegray.vim"]
+	path = submodules/Spacegray.vim
+	url = https://github.com/ajh17/Spacegray.vim.git
+[submodule "submodules/heroku-colorscheme"]
+	path = submodules/heroku-colorscheme
+	url = https://github.com/stulzer/heroku-colorscheme.git
+[submodule "submodules/vim-colors_atelier-schemes"]
+	path = submodules/vim-colors_atelier-schemes
+	url = https://github.com/atelierbram/vim-colors_atelier-schemes.git
+[submodule "submodules/mushroom"]
+	path = submodules/mushroom
+	url = https://github.com/mtglsk/mushroom.git
+[submodule "submodules/vim-monochrome"]
+	path = submodules/vim-monochrome
+	url = https://github.com/fxn/vim-monochrome.git
+[submodule "submodules/vim-railscasts"]
+	path = submodules/vim-railscasts
+	url = https://github.com/justincampbell/vim-railscasts.git
+[submodule "submodules/beekai"]
+	path = submodules/beekai
+	url = https://github.com/stephanedemotte/beekai.git
+[submodule "submodules/feral-vim"]
+	path = submodules/feral-vim
+	url = https://github.com/jedverity/feral-vim.git
+[submodule "submodules/vim-phoenix"]
+	path = submodules/vim-phoenix
+	url = https://github.com/widatama/vim-phoenix.git
+[submodule "submodules/oxeded.vim"]
+	path = submodules/oxeded.vim
+	url = https://github.com/queyenth/oxeded.vim.git
+[submodule "submodules/vim-colors-codeschool"]
+	path = submodules/vim-colors-codeschool
+	url = https://github.com/antlypls/vim-colors-codeschool.git
+[submodule "submodules/iceberg.vim"]
+	path = submodules/iceberg.vim
+	url = https://github.com/cocopon/iceberg.vim.git
+[submodule "submodules/ChasingLogic-colorscheme-vim"]
+	path = submodules/ChasingLogic-colorscheme-vim
+	url = https://github.com/ChasingLogic/ChasingLogic-colorscheme-vim.git
+[submodule "submodules/last256"]
+	path = submodules/last256
+	url = https://github.com/sk1418/last256.git
+[submodule "submodules/vim-babymate256"]
+	path = submodules/vim-babymate256
+	url = https://github.com/baverman/vim-babymate256.git
+[submodule "submodules/vim-hemisu"]
+	path = submodules/vim-hemisu
+	url = https://github.com/noahfrederick/vim-hemisu.git
+[submodule "submodules/vim-getafe"]
+	path = submodules/vim-getafe
+	url = https://github.com/larssmit/vim-getafe.git
+[submodule "submodules/mango.vim"]
+	path = submodules/mango.vim
+	url = https://github.com/goatslacker/mango.vim.git
+[submodule "submodules/vim"]
+	path = submodules/vim
+	url = https://github.com/lxmzhv/vim.git
+[submodule "submodules/vim-herokudoc-theme"]
+	path = submodules/vim-herokudoc-theme
+	url = https://github.com/uu59/vim-herokudoc-theme.git
+[submodule "submodules/Muon"]
+	path = submodules/Muon
+	url = https://github.com/gregsexton/Muon.git
+[submodule "submodules/FlatColor"]
+	path = submodules/FlatColor
+	url = https://github.com/MaxSt/FlatColor.git
+[submodule "submodules/BusyBee"]
+	path = submodules/BusyBee
+	url = https://github.com/vim-scripts/BusyBee.git
+[submodule "submodules/C64.vim"]
+	path = submodules/C64.vim
+	url = https://github.com/vim-scripts/C64.vim.git
+[submodule "submodules/ingretu"]
+	path = submodules/ingretu
+	url = https://github.com/gmarik/ingretu.git
+[submodule "submodules/flattr.vim"]
+	path = submodules/flattr.vim
+	url = https://github.com/farseer90718/flattr.vim.git
+[submodule "submodules/vim-coffee"]
+	path = submodules/vim-coffee
+	url = https://github.com/duythinht/vim-coffee.git
+[submodule "submodules/vim-colors-pencil"]
+	path = submodules/vim-colors-pencil
+	url = https://github.com/reedes/vim-colors-pencil.git
+[submodule "submodules/vim-colorscheme-darcula"]
+	path = submodules/vim-colorscheme-darcula
+	url = https://github.com/alem0lars/vim-colorscheme-darcula.git
+[submodule "submodules/base16-vim"]
+	path = submodules/base16-vim
+	url = https://github.com/chriskempson/base16-vim.git
+[submodule "submodules/neverland-vim-theme"]
+	path = submodules/neverland-vim-theme
+	url = https://github.com/trapd00r/neverland-vim-theme.git
+[submodule "submodules/vim-tomorrow-theme"]
+	path = submodules/vim-tomorrow-theme
+	url = https://github.com/chriskempson/vim-tomorrow-theme

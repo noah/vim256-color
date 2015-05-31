@@ -47,44 +47,48 @@ these hooks aren't versioned by git...
 ## Including:
 
 ```
-256-grayvim 256-jungle 
-Apprentice badwolf beauty256 
+256-grayvim cobalt2-vim-theme 256-jungle 
+Apprentice badwolf beauty256 heroku-colorscheme
 blacklight bubblegum 
 calmar256-lightdark 
-charged-256 codeschool 
+charged-256 codeschool  Spacegray.vim mango.vim elda.vim coffee
 colorful256 crt desert256 
 Disciple donbass.vim flattown 
-fu Gentooish greenvision 
+fu Gentooish greenvision vim-colors-pencil
 gruvbox.vim icansee.vim 
 inkpot jellybeans.vim 
 khaki.vim leo256 lettuce.vim 
-lilypink Liquid-Carbon 
+lilypink Liquid-Carbon  ChasingLogic-colorscheme-vim last256
+vim-colorscheme-darcula
 lodestone Lucius miko molokai 
 mrkn256.vim peaksea pink 
 rdark-terminal seoul256.vim 
-Simple256 southernlights 
-strange summerfruit256.vim 
+Simple256 southernlights vim-hemisu vim-getafe
+strange summerfruit256.vim oxeded.vim vim-colors-codeschool
 synic.vim tabula.vim tchaba 
-The-Vim-Gardener tir\_black 
+The-Vim-Gardener tir\_black vim-babymate256
 vilight.vim vim-atom-dark 
 vim-colors-solarized 
-vim-distinguished vim-hybrid 
+vim-distinguished vim-hybrid vim-herokudoc-theme base16
 vim-kolor vim-vividchalk 
-vim-vividchalk-sexy wombat256 
-xoria256.vim Zenburn 
+vim-vividchalk-sexy wombat256 vim-colors_atelier_schemes
+neverland-vim-theme vim-tomorrow-theme
+xoria256.vim Zenburn vim-monochrome mushroom vim-railscasts beekai muon
+FlatColor
+feral-vim vim-phoenix iceberg.vim BusyBee C64.vim ingretu flattr.vim
 ```
 
 
-Note
+To format the above list:
 
-    !tr ' ' '\n' | sort -f -d  | tr '\n' ' ' | fold -w 30 -s
+    !tr ' ' '\n' | uniq | sort -f -d  | tr '\n' ' ' | fold -w 30 -s
 
 
 ## My favorite
 
 Still [fu](https://aaron-mueller.de/blog/the-most-awesome-colorscheme-for-vim)
 
-## See also:
+## See also: 
 
 * Notes on the 256 color mode of xterm: http://frexx.de/xterm-256-notes/
 * 256 colors in vim: http://vim.wikia.com/wiki/256\_colors\_in\_vim

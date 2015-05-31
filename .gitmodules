@@ -172,3 +172,6 @@
 [submodule "submodules/Disciple"]
 	path = submodules/Disciple
 	url = https://github.com/romainl/Disciple.git
+[submodule "submodules/vim-atom-dark"]
+	path = submodules/vim-atom-dark
+	url = https://github.com/gosukiwi/vim-atom-dark.git

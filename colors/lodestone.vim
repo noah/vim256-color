@@ -1,1 +1,1 @@
-.././submodules/lodestone/lodestone.vim
+.././submodules/lodestone/colors/lodestone.vim

@@ -47,35 +47,53 @@ these hooks aren't versioned by git...
 ## Including:
 
 ```
-256-grayvim cobalt2-vim-theme 256-jungle 
-Apprentice badwolf beauty256 heroku-colorscheme
-blacklight bubblegum 
-calmar256-lightdark 
-charged-256 codeschool  Spacegray.vim mango.vim elda.vim coffee
-colorful256 crt desert256 
-Disciple donbass.vim flattown 
-fu Gentooish greenvision vim-colors-pencil
-gruvbox.vim icansee.vim 
-inkpot jellybeans.vim 
-khaki.vim leo256 lettuce.vim 
-lilypink Liquid-Carbon  ChasingLogic-colorscheme-vim last256
-vim-colorscheme-darcula
-lodestone Lucius miko molokai 
-mrkn256.vim peaksea pink 
+256-grayvim 
+256-jungle Apprentice badwolf 
+base16 beauty256 beekai 
+blacklight bubblegum BusyBee 
+C64.vim calmar256-lightdark 
+charged-256 
+ChasingLogic-colorscheme-vim 
+cobalt2-vim-theme codeschool 
+coffee colorful256 crt 
+desert256 Disciple 
+donbass.vim elda.vim 
+feral-vim FlatColor flattown 
+flattr.vim fu Gentooish 
+greenvision gruvbox.vim 
+heroku-colorscheme 
+icansee.vim iceberg.vim 
+ingretu inkpot jellybeans.vim 
+khaki.vim last256 leo256 
+lettuce.vim lilypink 
+Liquid-Carbon lodestone 
+Lucius mango.vim miko molokai 
+mrkn256.vim muon mushroom 
+neverland-vim-theme 
+oxeded.vim peaksea pink 
 rdark-terminal seoul256.vim 
-Simple256 southernlights vim-hemisu vim-getafe
-strange summerfruit256.vim oxeded.vim vim-colors-codeschool
-synic.vim tabula.vim tchaba 
-The-Vim-Gardener tir\_black vim-babymate256
+Simple256 southernlights 
+Spacegray.vim strange 
+summerfruit256.vim synic.vim 
+tabula.vim tchaba 
+The-Vim-Gardener tir\_black 
 vilight.vim vim-atom-dark 
+vim-babymate256 
+vim-colors_atelier_schemes 
+vim-colorscheme-darcula 
+vim-colors-codeschool 
+vim-colors-pencil 
 vim-colors-solarized 
-vim-distinguished vim-hybrid vim-herokudoc-theme base16
-vim-kolor vim-vividchalk 
-vim-vividchalk-sexy wombat256 vim-colors_atelier_schemes
-neverland-vim-theme vim-tomorrow-theme
-xoria256.vim Zenburn vim-monochrome mushroom vim-railscasts beekai muon
-FlatColor
-feral-vim vim-phoenix iceberg.vim BusyBee C64.vim ingretu flattr.vim
+vim-distinguished vim-getafe 
+vim-hemisu 
+vim-herokudoc-theme 
+vim-hybrid vim-kolor 
+vim-monochrome vim-phoenix 
+vim-railscasts 
+vim-tomorrow-theme 
+vim-vividchalk 
+vim-vividchalk-sexy wombat256 
+xoria256.vim Zenburn 
 ```
 
 

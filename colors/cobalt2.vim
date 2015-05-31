@@ -1,0 +1,1 @@
+.././submodules/cobalt2-vim-theme/colors/cobalt2.vim

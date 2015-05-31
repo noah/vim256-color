@@ -46,7 +46,38 @@ these hooks aren't versioned by git...
 
 ## Including:
 
-    256-grayvim 256-jungle beauty256 blacklight calmar256-lightdark Apprentice codeschool desert256 Disciple donbass.vim gruvbox.vim The-Vim-Gardener icansee.vim inkpot jellybeans.vim vim-hybrid Zenburn khaki.vim vim-kolor lettuce.vim Liquid-Carbon leo256 lodestone Lucius lilypink pink peaksea mrkn256.vim molokai miko southernlights rdark-terminal vim-colors-solarized strange summerfruit256.vim seoul256.vim synic.vim tabula.vim tchaba tir\_black vilight.vim wombat256 vim-distinguished vim-vividchalk vim-vividchalk-sexy xoria256.vim badwolf bubblegum Simple256 fu crt colorful256 charged-256 Gentooish greenvision
+```
+256-grayvim 256-jungle 
+Apprentice badwolf beauty256 
+blacklight bubblegum 
+calmar256-lightdark 
+charged-256 codeschool 
+colorful256 crt desert256 
+Disciple donbass.vim flattown 
+fu Gentooish greenvision 
+gruvbox.vim icansee.vim 
+inkpot jellybeans.vim 
+khaki.vim leo256 lettuce.vim 
+lilypink Liquid-Carbon 
+lodestone Lucius miko molokai 
+mrkn256.vim peaksea pink 
+rdark-terminal seoul256.vim 
+Simple256 southernlights 
+strange summerfruit256.vim 
+synic.vim tabula.vim tchaba 
+The-Vim-Gardener tir\_black 
+vilight.vim vim-atom-dark 
+vim-colors-solarized 
+vim-distinguished vim-hybrid 
+vim-kolor vim-vividchalk 
+vim-vividchalk-sexy wombat256 
+xoria256.vim Zenburn 
+```
+
+
+Note
+
+    !tr ' ' '\n' | sort -f -d  | tr '\n' ' ' | fold -w 30 -s
 
 
 ## My favorite

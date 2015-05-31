@@ -69,7 +69,7 @@ vim-vividchalk vim-vividchalk-sexy wombat256 xoria256.vim Zenburn
 
 To format the above list:
 
-    !tr ' ' '\n' | uniq | sort -f -d  | tr '\n' ' ' | fold -w 30 -s
+    !tr ' ' '\n' | uniq | sort -f -d  | tr '\n' ' ' | fold -w 72 -s
 
 
 ## My favorite

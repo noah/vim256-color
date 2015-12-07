@@ -106,12 +106,6 @@
 [submodule "submodules/wombat256"]
 	path = submodules/wombat256
 	url = https://github.com/vim-scripts/wombat256.vim.git
-[submodule "submodules/vim-vividchalk"]
-	path = submodules/vim-vividchalk
-	url = https://github.com/tpope/vim-vividchalk.git
-[submodule "submodules/vim-vividchalk-sexy"]
-	path = submodules/vim-vividchalk-sexy
-	url = https://github.com/andyferra/vim-vividchalk.git
 [submodule "submodules/xoria256.vim"]
 	path = submodules/xoria256.vim
 	url = https://github.com/vim-scripts/xoria256.vim.git

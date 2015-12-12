@@ -1,1 +1,1 @@
-.././submodules/vim-vividchalk-sexy/colors/vividchalk.vim
+.././submodules/vim-vividchalk/colors/vividchalk.vim

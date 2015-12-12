@@ -34,6 +34,9 @@
 [submodule "submodules/vim-hybrid"]
 	path = submodules/vim-hybrid
 	url = https://github.com/w0ng/vim-hybrid.git
+[submodule "submodules/vividchalk"]
+	path = submodules/vividchalk
+	url = https://github.com/tpope/vim-vividchalk.git
 [submodule "submodules/Zenburn"]
 	path = submodules/Zenburn
 	url = https://github.com/jnurmine/Zenburn.git

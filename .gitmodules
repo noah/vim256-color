@@ -274,3 +274,6 @@
 [submodule "submodules/vim-tomorrow-theme"]
 	path = submodules/vim-tomorrow-theme
 	url = https://github.com/chriskempson/vim-tomorrow-theme
+[submodule "submodules/seti.vim"]
+	path = submodules/seti.vim
+	url = https://github.com/trusktr/seti.vim

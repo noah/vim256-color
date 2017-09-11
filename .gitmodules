@@ -198,7 +198,7 @@
 	url = https://github.com/justincampbell/vim-railscasts.git
 [submodule "submodules/beekai"]
 	path = submodules/beekai
-	url = https://github.com/stephanedemotte/beekai.git
+	url = https://github.com/wrick17/beekai.git
 [submodule "submodules/feral-vim"]
 	path = submodules/feral-vim
 	url = https://github.com/jedverity/feral-vim.git

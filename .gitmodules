@@ -241,9 +241,9 @@
 [submodule "submodules/Muon"]
 	path = submodules/Muon
 	url = https://github.com/gregsexton/Muon.git
-[submodule "submodules/FlatColor"]
-	path = submodules/FlatColor
-	url = https://github.com/MaxSt/FlatColor.git
+[submodule "submodules/challenger-deep-theme"]
+	path = submodules/challenger-deep-theme
+	url = https://github.com/challenger-deep-theme/vim.git
 [submodule "submodules/BusyBee"]
 	path = submodules/BusyBee
 	url = https://github.com/vim-scripts/BusyBee.git
